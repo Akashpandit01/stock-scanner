@@ -180,5 +180,4 @@ Deployed using Vercel.
 
 Akash Pandit
 
-- GitHub: https://github.com/Akashpandit01
-- LinkedIn: https://www.linkedin.com
+
